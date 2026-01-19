@@ -2,6 +2,7 @@ Project Overview
 
 This project presents an end-to-end Business Intelligence solution built using Power BI to analyze sales performance across time, product categories, customers, and regions.
 The dashboard is designed from an executive decision-making perspective, focusing on KPIs, trends, and actionable insights rather than just visuals.
+
 Business Objectives
 
 Track Year-to-Date (YTD) sales, profit, quantity, and margin
