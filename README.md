@@ -1,9 +1,9 @@
-Project Overview
+**Project Overview**
 
 This project presents an end-to-end Business Intelligence solution built using Power BI to analyze sales performance across time, product categories, customers, and regions.
 The dashboard is designed from an executive decision-making perspective, focusing on KPIs, trends, and actionable insights rather than just visuals.
 
-Business Objectives
+**Business Objectives**
 
 Track Year-to-Date (YTD) sales, profit, quantity, and margin
 
@@ -14,11 +14,12 @@ Identify top-performing and loss-making categories/products
 Understand regional and customer-level revenue concentration
 
 Enable interactive analysis for stakeholders using slicers
-Dataset
+
+**Dataset**
 
 Source: Sample Superstore (CSV)
 
-Key Fields:
+**Key Fields**:
 
 Order Date, Ship Date
 
@@ -27,7 +28,8 @@ Sales, Profit, Quantity
 Category, Sub-Category, Product
 
 Customer, Region, State
-Data Modeling
+
+**Data Modeling**
 
 A Star Schema was implemented to support scalable and accurate analytics:
 
@@ -44,9 +46,12 @@ Product
 Region
 
 ✔ One-to-Many relationships
+
 ✔ Single-direction filtering
+
 ✔ Proper date table marked for time intelligence
-Key DAX Measures
+
+**Key DAX Measures**
 
 Some of the core measures used in this project:
 
@@ -67,7 +72,9 @@ Year-over-Year (YoY %)
 % of Total Sales (Customer & Region analysis)
 
 All measures were validated to ensure correct filter and time context.
-Dashboard Pages
+
+**Dashboard Pages**
+
 1️⃣ Executive Sales Performance Overview
 
 KPI cards for Sales, Profit, Quantity, Margin (YTD)
@@ -78,13 +85,14 @@ Regional sales comparison
 
 Key business insights for leadership
 
-Key Insights:
+**Key Insights**:
 
 Total sales increased 15% YoY, driven by strong growth in the West region
 
 Profit margin remained stable at 12.25%
 
 Top 3 regions contribute ~60% of total sales
+
 
 2️⃣ Product & Category Analysis
 
@@ -96,13 +104,14 @@ Top 10 Products by Sales
 
 Identification of loss-making products
 
-Key Insights:
+**Key Insights**:
 
 Technology drives the highest revenue
 
 Furniture shows lower margins
 
 Several high-selling products operate at a loss, indicating pricing or cost issues
+
 
 3️⃣ Regional & Customer Performance
 
@@ -114,12 +123,13 @@ Top 10 customers by revenue
 
 % contribution of each customer to total sales
 
-Key Insights:
+**Key Insights**:
 
 Revenue is concentrated in a few key regions and customers
 
 Customer diversification could reduce revenue risk
-Tools & Technologies
+
+**Tools & Technologies**
 
 Power BI
 
@@ -130,7 +140,8 @@ Power Query
 Data Modeling (Star Schema)
 
 CSV Data Source
-Key Takeaways
+
+**Key Takeaways**
 
 Demonstrates real-world BI development lifecycle
 
