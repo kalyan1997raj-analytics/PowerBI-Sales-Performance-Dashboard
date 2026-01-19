@@ -150,3 +150,17 @@ Focus on business storytelling, not just visuals
 Built with best practices in data modeling and DAX
 
 Suitable for Data Analyst / BI Analyst / Power BI Developer roles
+
+**Dashboard Screenshots**
+**Executive Sales Performance Overview**
+<img width="762" height="493" alt="executive-overview png" src="https://github.com/user-attachments/assets/d3185d33-2ea2-4e9a-983e-a9197a1c64a0" />
+
+**Product & Category Analysis**
+<img width="941" height="481" alt="product-category-analysis png" src="https://github.com/user-attachments/assets/e9f6127e-1dc4-4325-9c3a-25f0b741f760" />
+
+**Regional & Customer Performance**
+<img width="795" height="492" alt="regional-customer-performance" src="https://github.com/user-attachments/assets/13f9db30-1517-4441-ad1b-97239b588b17" />
+
+
+ 
+
